@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Exploit code for vulnserver GMON seh overwrite with egghunter"""
+"""Exploit code for vulnserver HTER"""
 
 import socket
 
